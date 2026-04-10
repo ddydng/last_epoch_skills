@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last Epoch Level 50"
+  short_description: "Create a level-50 offline hero."
+  default_prompt: "Create or patch a fresh offline Last Epoch character to level 50 with requested class and mastery, chapter-3 progression, waypoints, and 1 million gold."

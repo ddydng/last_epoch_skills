@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last Epoch Spec Reset"
+  short_description: "Reset specs to 20 free points."
+  default_prompt: "Reset a Last Epoch offline character specialized skills to empty trees with 20 unallocated points each using the XP-backed save fields."
