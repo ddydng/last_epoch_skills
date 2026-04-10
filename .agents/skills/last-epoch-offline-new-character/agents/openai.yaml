@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last Epoch New Character"
+  short_description: "Create an offline hero at a chosen level."
+  default_prompt: "Use $last-epoch-offline-new-character to create or patch a fresh offline Last Epoch character at a requested level with the chosen class, mastery, progression, and gold."

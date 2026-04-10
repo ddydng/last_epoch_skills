@@ -33,6 +33,8 @@ Use this skill to reset the currently specialized skills on an offline Last Epoc
 
 Use [scripts/reset_specializations.py](scripts/reset_specializations.py).
 
+During development, add `--dry-run` to inspect the resulting summary without writing the target file.
+
 Example:
 
 ```bash

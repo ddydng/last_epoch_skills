@@ -4,7 +4,7 @@
 
 - Files are plaintext JSON prefixed with `EPOCH`.
 - Offline character saves live in `AppData/LocalLow/Eleventh Hour Games/Last Epoch/Saves/1CHARACTERSLOT_BETA_*`.
-- Relevant fields for the level-50 bootstrap:
+- Relevant fields for the requested-level bootstrap:
   - `characterName`
   - `characterClass`
   - `chosenMastery`

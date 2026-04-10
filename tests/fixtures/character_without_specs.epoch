@@ -1,0 +1,12 @@
+EPOCH{
+  "abilityBar": [
+    {
+      "slot": 1,
+      "skillId": "Swipe"
+    }
+  ],
+  "savedSkillTrees": [],
+  "otherData": {
+    "keep": "yes"
+  }
+}

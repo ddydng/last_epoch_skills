@@ -1,0 +1,15 @@
+EPOCH{
+  "gold": 42,
+  "tabs": [
+    {
+      "name": "Main",
+      "items": [
+        1,
+        2
+      ]
+    }
+  ],
+  "meta": {
+    "cycle": 7
+  }
+}

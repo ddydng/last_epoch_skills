@@ -1,0 +1,55 @@
+EPOCH{
+  "characterName": "OldName",
+  "characterClass": 1,
+  "chosenMastery": 2,
+  "clickedUnlockMasteriesButton": true,
+  "level": 12,
+  "currentExp": 3456,
+  "reachedTown": false,
+  "portalUnlocked": false,
+  "focusedQuest": 99,
+  "savedQuests": [
+    {
+      "questID": 999,
+      "questStepID": 1,
+      "state": 1,
+      "questBranch": 0,
+      "completeObjectives": [],
+      "failedObjectives": [],
+      "nolongerRelevantObjectives": [],
+      "objectiveProgress": [],
+      "trackStatus": 0
+    }
+  ],
+  "sceneProgresses": [
+    {
+      "scene": "KEEP",
+      "savedProgress": 123,
+      "version": 1
+    }
+  ],
+  "unlockedWaypointScenes": [
+    "KEEP"
+  ],
+  "oneTimeEvents": [
+    "starter"
+  ],
+  "dungeonCompletion": [],
+  "inventory": {
+    "items": [
+      {
+        "id": "amulet",
+        "rarity": "rare"
+      }
+    ]
+  },
+  "savedMonolithQuests": [
+    {
+      "id": 7,
+      "echo": 3
+    }
+  ],
+  "someOtherField": {
+    "untouched": true
+  }
+}

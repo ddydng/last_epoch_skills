@@ -167,13 +167,29 @@ def merge_scene_progress(*groups):
     return list(merged.values())
 
 
+def parse_level(value: str) -> int:
+    try:
+        level = int(value)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError("Level must be an integer") from exc
+    if not 1 <= level <= 100:
+        raise argparse.ArgumentTypeError("Level must be between 1 and 100")
+    return level
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--save", required=True)
     parser.add_argument("--stash", required=True)
     parser.add_argument("--name", required=True)
+    parser.add_argument("--level", required=True, type=parse_level)
     parser.add_argument("--class", dest="class_name", required=True, choices=sorted(CLASS_MAP))
     parser.add_argument("--mastery", required=True)
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Print the resulting summary without writing the save files.",
+    )
     args = parser.parse_args()
 
     class_name = normalize_key(args.class_name)
@@ -186,7 +202,7 @@ def main():
     character["characterClass"] = CLASS_MAP[class_name]
     character["chosenMastery"] = resolve_mastery(class_name, mastery_name)
     character["clickedUnlockMasteriesButton"] = False
-    character["level"] = 50
+    character["level"] = args.level
     character["currentExp"] = 0
     character["reachedTown"] = True
     character["portalUnlocked"] = True
@@ -201,8 +217,9 @@ def main():
 
     stash["gold"] = 1_000_000
 
-    save_epoch_json(Path(args.save), character)
-    save_epoch_json(Path(args.stash), stash)
+    if not args.dry_run:
+        save_epoch_json(Path(args.save), character)
+        save_epoch_json(Path(args.stash), stash)
 
     print(json.dumps({
         "characterName": character["characterName"],
@@ -212,6 +229,7 @@ def main():
         "waypoints": len(character["unlockedWaypointScenes"]),
         "quests": len(character["savedQuests"]),
         "gold": stash["gold"],
+        "dryRun": args.dry_run,
     }, indent=2))
 
 

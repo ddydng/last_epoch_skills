@@ -18,6 +18,11 @@ def save_epoch_json(path: Path, payload):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--save", required=True)
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Print the resulting summary without writing the save file.",
+    )
     args = parser.parse_args()
 
     path = Path(args.save)
@@ -35,7 +40,8 @@ def main():
         tree["abilityXP"] = 0.0
 
     data["savedSkillTrees"] = trees
-    save_epoch_json(path, data)
+    if not args.dry_run:
+        save_epoch_json(path, data)
 
     print(json.dumps({
         "abilityBar": data.get("abilityBar"),
@@ -48,6 +54,7 @@ def main():
             }
             for tree in trees
         ],
+        "dryRun": args.dry_run,
     }, indent=2))
 
 

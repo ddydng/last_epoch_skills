@@ -1,9 +1,9 @@
 ---
-name: last-epoch-offline-level-50
-description: Create or patch a fresh offline Last Epoch character save to level 50 with a requested name, base class, and mastery. Use when Codex needs to bootstrap a brand-new offline character, unlock campaign progress through chapter 3, unlock the story plus arena and dungeon waypoint network, and grant 1 million gold in the stash for that character.
+name: last-epoch-offline-new-character
+description: Create or patch a fresh offline Last Epoch character save at a requested level with a requested name, base class, and mastery. Use when Codex needs to bootstrap a brand-new offline character, unlock campaign progress through chapter 3, unlock the story plus arena and dungeon waypoint network, and grant 1 million gold in the stash for that character.
 ---
 
-# Last Epoch Offline Level 50
+# Last Epoch Offline New Character
 
 Use this skill to bootstrap a fresh offline Last Epoch character from the local save files.
 
@@ -11,6 +11,7 @@ Use this skill to bootstrap a fresh offline Last Epoch character from the local 
 
 Ask for:
 - character name
+- desired level (1-100)
 - class
 - mastery
 - whether overwriting an existing offline slot is explicitly allowed
@@ -25,8 +26,9 @@ Default behavior is to create a brand-new offline character slot. If the user do
 4. Read the target character file in `AppData/LocalLow/Eleventh Hour Games/Last Epoch/Saves/1CHARACTERSLOT_BETA_*`.
 5. Read the cycle stash file that matches the character cycle, for example `STASH_CYCLE_7_0`.
 6. Map the requested class/mastery to the save integers.
-7. Patch the character save so it represents a level-50 offline character with:
+7. Patch the character save so it represents an offline character at the requested level with:
    - requested `characterName`
+   - requested `level`
    - requested `characterClass`
    - requested `chosenMastery`
    - `currentExp = 0`
@@ -58,6 +60,8 @@ Read [references/save-notes.md](references/save-notes.md) before patching.
 
 Use [scripts/bootstrap_character.py](scripts/bootstrap_character.py) to perform the patch.
 
+During development, add `--dry-run` to inspect the resulting summary without writing the target files.
+
 Example:
 
 ```bash
@@ -65,6 +69,7 @@ python3 scripts/bootstrap_character.py \
   --save "/mnt/c/Users/<user>/AppData/LocalLow/Eleventh Hour Games/Last Epoch/Saves/1CHARACTERSLOT_BETA_0" \
   --stash "/mnt/c/Users/<user>/AppData/LocalLow/Eleventh Hour Games/Last Epoch/Saves/STASH_CYCLE_7_0" \
   --name "MyCharacter" \
+  --level 75 \
   --class primalist \
   --mastery shaman
 ```
