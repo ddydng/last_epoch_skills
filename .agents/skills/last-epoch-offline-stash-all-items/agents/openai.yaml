@@ -1,0 +1,4 @@
+interface:
+  display_name: "Last Epoch Full Stash"
+  short_description: "Reset stash into a full item museum."
+  default_prompt: "Use $last-epoch-offline-stash-all-items to rebuild an offline Last Epoch stash with one copy of every catalogued item, organized into tabs by family and class."

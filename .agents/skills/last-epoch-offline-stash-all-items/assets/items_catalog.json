@@ -1,0 +1,8494 @@
+{
+  "source": {
+    "provider": "TunkLab",
+    "game_data_version": "1.4.2.1",
+    "extracted_from": "https://lastepoch.tunklab.com/uniques",
+    "extracted_on": "2026-04-10",
+    "included_legendary_type_count": 18
+  },
+  "equippable": [
+    {
+      "b": 0,
+      "t": "Helmets",
+      "d": "Helmet",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Refuge Helmet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Jewelled Circlet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 0,
+              "d": "Calamity",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Iron Casque",
+          "c": "Any",
+          "u": [
+            {
+              "i": 401,
+              "d": "Cocooned Helmet",
+              "s": null
+            },
+            {
+              "i": 412,
+              "d": "Dominance of the Tundra",
+              "s": null
+            },
+            {
+              "i": 256,
+              "d": "Peak of the Mountain",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Wolf Helmet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Dome Cap",
+          "c": "Any",
+          "u": [
+            {
+              "i": 96,
+              "d": "The Last Bear's Lament",
+              "s": 6
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Bronze Casque",
+          "c": "Any",
+          "u": [
+            {
+              "i": 158,
+              "d": "Gaspar's Insight",
+              "s": 12
+            },
+            {
+              "i": 5,
+              "d": "Isadora's Revenge",
+              "s": 1
+            },
+            {
+              "i": 222,
+              "d": "Prismatic Gaze",
+              "s": null
+            },
+            {
+              "i": 373,
+              "d": "Ravager's Dart",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Gladiator Helmet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 6,
+              "d": "Boneclamor Barbute",
+              "s": null
+            },
+            {
+              "i": 160,
+              "d": "Call of the Tundra",
+              "s": null
+            },
+            {
+              "i": 4,
+              "d": "Decayed Skull",
+              "s": null
+            },
+            {
+              "i": 357,
+              "d": "Seed of Ekkidrasil",
+              "s": null
+            },
+            {
+              "i": 2,
+              "d": "Snowblind",
+              "s": null
+            },
+            {
+              "i": 239,
+              "d": "Somnia",
+              "s": null
+            },
+            {
+              "i": 449,
+              "d": "The Butcher's Crown",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Forest Helmet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 434,
+              "d": "Mask of Indifference",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Outcast Cage",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Bone Mask",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Skull Cage",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Death Mask",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Fiend Cowl",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Burial Mask",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Profane Crown",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Revenant Mask",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Copper Circlet",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Adept Helm",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Keeper Helm",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Temple Veil",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Lunar Helm",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 105,
+              "d": "The Ashen Crown",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 21,
+          "d": "Mystic Helm",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 22,
+          "d": "Celestial Helm",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 1,
+              "d": "Fractured Crown",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 23,
+          "d": "Runed Visage",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 316,
+              "d": "Apex of Thought",
+              "s": null
+            },
+            {
+              "i": 307,
+              "d": "Crest of Unity",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 24,
+          "d": "Oak Helm",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 25,
+          "d": "Wolf Pelt",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 302,
+              "d": "Howl of the West Wind",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 26,
+          "d": "Forest Cowl",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 27,
+          "d": "Chitin Helm",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 28,
+          "d": "Raptor Helm",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 29,
+          "d": "Icewolf Pelt",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 3,
+              "d": "Artor's Legacy",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 30,
+          "d": "Darkwolf Pelt",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 129,
+              "d": "Boardman's Legacy",
+              "s": 10
+            }
+          ]
+        },
+        {
+          "i": 31,
+          "d": "Greatwood Visage",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 32,
+          "d": "Leather Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 33,
+          "d": "Infantry Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 34,
+          "d": "Iron Visor",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 35,
+          "d": "Full Helm",
+          "c": "Sentinel",
+          "u": [
+            {
+              "i": 221,
+              "d": "Paranoia",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 36,
+          "d": "Winged Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 37,
+          "d": "Myrmidon Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 38,
+          "d": "Augury Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 39,
+          "d": "Solarum Greathelm",
+          "c": "Sentinel",
+          "u": [
+            {
+              "i": 87,
+              "d": "Sunforged Greathelm",
+              "s": 4
+            }
+          ]
+        },
+        {
+          "i": 40,
+          "d": "Tyrant Crown",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 41,
+          "d": "Tusked Greathelm",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 172,
+              "d": "Herald of the Scurry",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 42,
+          "d": "Cloth Hood",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 43,
+          "d": "Leather Mask",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 270,
+              "d": "Hive Mind",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 44,
+          "d": "Bandit Helm",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 45,
+          "d": "Outcast Hat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 46,
+          "d": "Horned Helm",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 47,
+          "d": "Umbral Hood",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 453,
+              "d": "Doppelganger's Facade",
+              "s": 19
+            }
+          ]
+        },
+        {
+          "i": 48,
+          "d": "Exile Hat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 49,
+          "d": "Pinnacle Helm",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 50,
+          "d": "Falconry Helm",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 51,
+          "d": "Necropolis Helm",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 52,
+          "d": "Terror Crown",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 53,
+          "d": "Avian Helm",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 54,
+          "d": "Kolheim Cowl",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 55,
+          "d": "Meruna Helm",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 56,
+          "d": "Ancestral Crown",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 430,
+              "d": "Chorus of the Anurok",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 57,
+          "d": "Weathered Crown",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 185,
+              "d": "Vilatria's Storm Crown",
+              "s": 15
+            }
+          ]
+        },
+        {
+          "i": 58,
+          "d": "Arcane Visage",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 59,
+          "d": "Arena Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 60,
+          "d": "Spiked Helm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 61,
+          "d": "Leonine Greathelm",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 62,
+          "d": "Witch Hat",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 63,
+          "d": "Coven Hat",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 64,
+          "d": "Immortal Crown",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 335,
+              "d": "Wraithlord's Harbour",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 65,
+          "d": "Grolehide Hood",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 66,
+          "d": "Scalebane Grimace",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 457,
+              "d": "Kuzon's Guise",
+              "s": 21
+            }
+          ]
+        },
+        {
+          "i": 67,
+          "d": "Blood Visage",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 68,
+          "d": "Dragon Visage",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 69,
+          "d": "Gorgonscale Coif",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 194,
+              "d": "Corsair's Blood Cowl",
+              "s": 16
+            }
+          ]
+        },
+        {
+          "i": 70,
+          "d": "Raven Crown",
+          "c": "Acolyte",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 1,
+      "t": "Body Armor",
+      "d": "Body Armor",
+      "g": [
+        2,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Refuge Armor",
+          "c": "Any",
+          "u": [
+            {
+              "i": 7,
+              "d": "The Kestrel",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Leather Coat",
+          "c": "Any",
+          "u": [
+            {
+              "i": 78,
+              "d": "Apiarist's Suit",
+              "s": 3
+            },
+            {
+              "i": 8,
+              "d": "Doublet of Onos Tull",
+              "s": null
+            },
+            {
+              "i": 248,
+              "d": "Flesh of Stone",
+              "s": null
+            },
+            {
+              "i": 9,
+              "d": "Prism Wraps",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Iron Armor",
+          "c": "Any",
+          "u": [
+            {
+              "i": 387,
+              "d": "Cocooned Cuirass",
+              "s": null
+            },
+            {
+              "i": 10,
+              "d": "Urzil's Pride",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Noble Raiment",
+          "c": "Any",
+          "u": [
+            {
+              "i": 11,
+              "d": "Exsanguinous",
+              "s": null
+            },
+            {
+              "i": 157,
+              "d": "Gaspar's Acuity",
+              "s": 12
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Banded Armor",
+          "c": "Any",
+          "u": [
+            {
+              "i": 448,
+              "d": "Architects of Astral Blood",
+              "s": null
+            },
+            {
+              "i": 255,
+              "d": "Core of the Mountain",
+              "s": null
+            },
+            {
+              "i": 304,
+              "d": "Static Shell",
+              "s": null
+            },
+            {
+              "i": 95,
+              "d": "The Last Bear's Scorn",
+              "s": 6
+            },
+            {
+              "i": 436,
+              "d": "Wings of Discord",
+              "s": null
+            },
+            {
+              "i": 12,
+              "d": "Yrun's Wisdom",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Copper Plate",
+          "c": "Any",
+          "u": [
+            {
+              "i": 117,
+              "d": "Dark Shroud of Cinders",
+              "s": null
+            },
+            {
+              "i": 13,
+              "d": "Titan Heart",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Gladiator Armor",
+          "c": "Any",
+          "u": [
+            {
+              "i": 358,
+              "d": "Null Portent",
+              "s": null
+            },
+            {
+              "i": 354,
+              "d": "Wall of Nothing",
+              "s": null
+            },
+            {
+              "i": 153,
+              "d": "Wings of Argentus",
+              "s": null
+            },
+            {
+              "i": 111,
+              "d": "Woven Flesh",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Forest Cuirass",
+          "c": "Any",
+          "u": [
+            {
+              "i": 370,
+              "d": "Mantle of the Pale Ox",
+              "s": null
+            },
+            {
+              "i": 426,
+              "d": "Thicket of Blinding Light",
+              "s": null
+            },
+            {
+              "i": 14,
+              "d": "Valeroot",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Outcast Rags",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretic Garb",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Initiate Robes",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Ribbed Cuirass",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Fiend Robes",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Burial Plate",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Profane Regalia",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Revenant Plate",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 272,
+              "d": "Aaron's Will",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 16,
+          "d": "Traveling Coat",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Adept Robes",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Archive Robes",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Temple Garb",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Opulent Robes",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 21,
+          "d": "Mystic Plate",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 22,
+          "d": "Celestial Raiment",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 23,
+          "d": "Vul'kaur Regalia",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 313,
+              "d": "Fundamental Criterion",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 24,
+          "d": "Hide Armor",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 25,
+          "d": "Oak Armor",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 26,
+          "d": "Forest Garb",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 27,
+          "d": "Icewolf Garb",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 28,
+          "d": "Shamanic Garb",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 463,
+              "d": "Rahyeh's Embrace",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 29,
+          "d": "Kolheim Armor",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 128,
+              "d": "Boardman's Fallacy",
+              "s": 10
+            }
+          ]
+        },
+        {
+          "i": 30,
+          "d": "Meruna Carapace",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 31,
+          "d": "Greatwood Coat",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 32,
+          "d": "Ringmail Hauberk",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 33,
+          "d": "Infantry Hauberk",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 34,
+          "d": "Iron Cuirass",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 35,
+          "d": "Full Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 36,
+          "d": "Noble Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 37,
+          "d": "Myrmidon Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 38,
+          "d": "Augury Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 39,
+          "d": "Solarum Plate",
+          "c": "Sentinel",
+          "u": [
+            {
+              "i": 86,
+              "d": "Sunforged Cuirass",
+              "s": 4
+            }
+          ]
+        },
+        {
+          "i": 40,
+          "d": "Apocalypse Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 41,
+          "d": "Tyrant Regalia",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 42,
+          "d": "Ancestral Garb",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 43,
+          "d": "Cloth Armor",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 44,
+          "d": "Leather Hauberk",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 45,
+          "d": "Bandit Garb",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 46,
+          "d": "Outcast Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 47,
+          "d": "Brigandine Armor",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 48,
+          "d": "Umbral Coat",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 452,
+              "d": "Doppelganger's Deception",
+              "s": 19
+            }
+          ]
+        },
+        {
+          "i": 49,
+          "d": "Exile Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 50,
+          "d": "Elite Regalia",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 51,
+          "d": "Falconry Armor",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 52,
+          "d": "Necropolis Plate",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 53,
+          "d": "Avian Garb",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 54,
+          "d": "Chitin Carapace",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 55,
+          "d": "Beastmail",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 93,
+              "d": "Kermode's Cage",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 56,
+          "d": "Keeper Raiment",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 57,
+          "d": "Lunar Raiment",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 58,
+          "d": "Arcane Regalia",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 275,
+              "d": "Unstable Core",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 59,
+          "d": "Worn Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 60,
+          "d": "Forge Plate",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 61,
+          "d": "Champion Regalia",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 62,
+          "d": "Witch Robes",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 106,
+              "d": "Shroud of Obscurity",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 63,
+          "d": "Coven Robes",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 64,
+          "d": "Immortal Regalia",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 65,
+          "d": "Grolehide Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 66,
+          "d": "Scalebane Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 67,
+          "d": "Wyrmhide Coat",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 309,
+              "d": "Elecoe's Abandon",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 68,
+          "d": "Dragonhide Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 69,
+          "d": "Gorgonscale Coat",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 70,
+          "d": "Sanguine Regalia",
+          "c": "Acolyte",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "t": "Belts",
+      "d": "Belt",
+      "g": [
+        2,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Sash",
+          "c": "Any",
+          "u": [
+            {
+              "i": 102,
+              "d": "Pebbles' Bitemarked Sash",
+              "s": 8
+            },
+            {
+              "i": 15,
+              "d": "Vipertail",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Leather Belt",
+          "c": "Any",
+          "u": [
+            {
+              "i": 258,
+              "d": "Immolator's Oblation",
+              "s": null
+            },
+            {
+              "i": 92,
+              "d": "Jungle Queen's Chaps of Holding",
+              "s": null
+            },
+            {
+              "i": 112,
+              "d": "Strands of Souls",
+              "s": null
+            },
+            {
+              "i": 75,
+              "d": "The Scavenger",
+              "s": null
+            },
+            {
+              "i": 204,
+              "d": "Thorn Slinger",
+              "s": null
+            },
+            {
+              "i": 138,
+              "d": "Zerrick's Guile",
+              "s": 11
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Plated Belt",
+          "c": "Any",
+          "u": [
+            {
+              "i": 399,
+              "d": "Cocooned Belt",
+              "s": null
+            },
+            {
+              "i": 327,
+              "d": "Communion of the Erased",
+              "s": null
+            },
+            {
+              "i": 16,
+              "d": "Isadora's Tomb Binding",
+              "s": 1
+            },
+            {
+              "i": 404,
+              "d": "Orian's Descent",
+              "s": null
+            },
+            {
+              "i": 180,
+              "d": "Shattered Chains",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Traveller's Belt",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Chain Belt",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Nomad Belt",
+          "c": "Any",
+          "u": [
+            {
+              "i": 446,
+              "d": "Fangs of the Berserker",
+              "s": null
+            },
+            {
+              "i": 464,
+              "d": "Jormun's Thirst",
+              "s": 22
+            },
+            {
+              "i": 103,
+              "d": "Legacy of the Quiet Forest",
+              "s": null
+            },
+            {
+              "i": 263,
+              "d": "Omen of Thunder",
+              "s": null
+            },
+            {
+              "i": 17,
+              "d": "Ward Trail",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Noble Sash",
+          "c": "Any",
+          "u": [
+            {
+              "i": 188,
+              "d": "Azurral's Fury",
+              "s": null
+            },
+            {
+              "i": 18,
+              "d": "Chains of Uleros",
+              "s": null
+            },
+            {
+              "i": 288,
+              "d": "Harbinger of Stars",
+              "s": null
+            },
+            {
+              "i": 422,
+              "d": "Lightning in a Bottle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Spidersilk Sash",
+          "c": "Any",
+          "u": [
+            {
+              "i": 402,
+              "d": "Elecoe's Innovation",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Praetorian Belt",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Osprean Belt",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Divine Girdle",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Celestial Girdle",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Coinmail Belt",
+          "c": "Any",
+          "u": [
+            {
+              "i": 416,
+              "d": "Brewmaster's Buckle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 13,
+          "d": "Singularity Belt",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Corruption Binding",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "t": "Boots",
+      "d": "Boots",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Hide Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 350,
+              "d": "Flight of Quetzeri",
+              "s": null
+            },
+            {
+              "i": 206,
+              "d": "Lessons of the Metropolis",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Leather Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 19,
+              "d": "Mourningfrost",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Iron Greaves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 296,
+              "d": "Advent of the Erased",
+              "s": null
+            },
+            {
+              "i": 306,
+              "d": "Blood of the Exile",
+              "s": null
+            },
+            {
+              "i": 203,
+              "d": "Darkstride",
+              "s": null
+            },
+            {
+              "i": 253,
+              "d": "Foot of the Mountain",
+              "s": null
+            },
+            {
+              "i": 20,
+              "d": "Stormtide",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Outcast Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 461,
+              "d": "Ash Wake",
+              "s": null
+            },
+            {
+              "i": 233,
+              "d": "Snowdrift",
+              "s": null
+            },
+            {
+              "i": 458,
+              "d": "Tabi of Dusk and Dawn",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Brigandine Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 21,
+              "d": "Eterra's Path",
+              "s": null
+            },
+            {
+              "i": 356,
+              "d": "Stealth",
+              "s": null
+            },
+            {
+              "i": 104,
+              "d": "Suloron's Step",
+              "s": null
+            },
+            {
+              "i": 132,
+              "d": "Transient Rest",
+              "s": null
+            },
+            {
+              "i": 140,
+              "d": "Zerrick's Ambition",
+              "s": 11
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Heoborean Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 98,
+              "d": "Halvar's Stand",
+              "s": 7
+            },
+            {
+              "i": 229,
+              "d": "Roots of Vithrasil",
+              "s": null
+            },
+            {
+              "i": 218,
+              "d": "Yulia's Path",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Solarum Greaves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 91,
+              "d": "Fiery Dragon Shoes",
+              "s": null
+            },
+            {
+              "i": 264,
+              "d": "Vaion's Chariot",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Worn Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 347,
+              "d": "The Inevitable",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Shrine Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 443,
+              "d": "Army of Skin",
+              "s": null
+            },
+            {
+              "i": 147,
+              "d": "Raindance",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Arcane Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 400,
+              "d": "Cocooned Boots",
+              "s": null
+            },
+            {
+              "i": 115,
+              "d": "Last Steps of the Living",
+              "s": null
+            },
+            {
+              "i": 178,
+              "d": "Stymied Fate",
+              "s": null
+            },
+            {
+              "i": 280,
+              "d": "Telf'un's Mirage",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Vanguard Boots",
+          "c": "Any",
+          "u": [
+            {
+              "i": 337,
+              "d": "Razorfall",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Citadel Boots",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Celestial Boots",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Mercantile Boots",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Veteran's Boots",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "t": "Gloves",
+      "d": "Gloves",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Hide Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 22,
+              "d": "Keeper's Gloves",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Leather Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 131,
+              "d": "Avarice",
+              "s": null
+            },
+            {
+              "i": 398,
+              "d": "Cocooned Gloves",
+              "s": null
+            },
+            {
+              "i": 202,
+              "d": "Stormhide Paws",
+              "s": null
+            },
+            {
+              "i": 293,
+              "d": "Swaddling of the Erased",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Mail Bracers",
+          "c": "Any",
+          "u": [
+            {
+              "i": 25,
+              "d": "Boulderfists",
+              "s": null
+            },
+            {
+              "i": 24,
+              "d": "Fighting Chance",
+              "s": null
+            },
+            {
+              "i": 213,
+              "d": "Frostbite Shackles",
+              "s": null
+            },
+            {
+              "i": 23,
+              "d": "Riverbend Grasp",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Outcast Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 167,
+              "d": "Ravens' Rise",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Noble Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 116,
+              "d": "Atrophy",
+              "s": null
+            },
+            {
+              "i": 266,
+              "d": "Burning Avarice",
+              "s": null
+            },
+            {
+              "i": 359,
+              "d": "Fingers of the Phantom Mire",
+              "s": null
+            },
+            {
+              "i": 26,
+              "d": "Isadora's Gravechill",
+              "s": 1
+            },
+            {
+              "i": 276,
+              "d": "Liath's Machinations",
+              "s": null
+            },
+            {
+              "i": 260,
+              "d": "Lich's Envy",
+              "s": 18
+            },
+            {
+              "i": 126,
+              "d": "Mortality's Grasp",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Plated Gauntlets",
+          "c": "Any",
+          "u": [
+            {
+              "i": 333,
+              "d": "Falcon Fists",
+              "s": null
+            },
+            {
+              "i": 134,
+              "d": "Li'raka's Claws",
+              "s": null
+            },
+            {
+              "i": 83,
+              "d": "Maehlin's Hubris",
+              "s": null
+            },
+            {
+              "i": 94,
+              "d": "The Last Bear's Fury",
+              "s": 6
+            },
+            {
+              "i": 27,
+              "d": "Wing Guards",
+              "s": null
+            },
+            {
+              "i": 139,
+              "d": "Zerrick's Greed",
+              "s": 11
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Solarum Bracers",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Crusader Gauntlets",
+          "c": "Any",
+          "u": [
+            {
+              "i": 287,
+              "d": "Hand of Judgement",
+              "s": null
+            },
+            {
+              "i": 240,
+              "d": "Julra's Obsession",
+              "s": null
+            },
+            {
+              "i": 199,
+              "d": "Rule of the Simoon",
+              "s": null
+            },
+            {
+              "i": 217,
+              "d": "Sacrificial Embrace",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Gluttonous Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 208,
+              "d": "Ravenous Void",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Serrated Bracers",
+          "c": "Any",
+          "u": [
+            {
+              "i": 332,
+              "d": "Blood Roost",
+              "s": null
+            },
+            {
+              "i": 187,
+              "d": "Salt the Wound",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Arcane Bracers",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Ascetic Gloves",
+          "c": "Any",
+          "u": [
+            {
+              "i": 372,
+              "d": "Grasp of the Blood Mage",
+              "s": null
+            },
+            {
+              "i": 435,
+              "d": "Permanence of Primal Knowledge",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Eternal Gauntlets",
+          "c": "Any",
+          "u": [
+            {
+              "i": 431,
+              "d": "Carrion of Creation",
+              "s": null
+            },
+            {
+              "i": 415,
+              "d": "Immortal Vise",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 13,
+          "d": "Celestial Gloves",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Coinmail Gauntlets",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "t": "1H Axes",
+      "d": "One-Handed Axe",
+      "g": [
+        2,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Hatchet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 380,
+              "d": "Cocooned Cleaver",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Pickaxe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Rusted Cleaver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 314,
+              "d": "Cleaver Solution",
+              "s": null
+            },
+            {
+              "i": 29,
+              "d": "Taste of Blood",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Battle Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 465,
+              "d": "Jormun's Hunger",
+              "s": 22
+            },
+            {
+              "i": 173,
+              "d": "Ruby Fang Cleaver",
+              "s": 14
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Sickle",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Wengari Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 28,
+              "d": "Beast King",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Crescent Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 31,
+              "d": "Tempest Maw",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Chitin Claw",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Eagle Wing",
+          "c": "Any",
+          "u": [
+            {
+              "i": 232,
+              "d": "Hakar's Phoenix",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Soul Harvester",
+          "c": "Any",
+          "u": [
+            {
+              "i": 151,
+              "d": "Eulogy of Blood",
+              "s": null
+            },
+            {
+              "i": 420,
+              "d": "Executioner's Tithe",
+              "s": null
+            },
+            {
+              "i": 252,
+              "d": "Pact Severance",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Shadow Cleaver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Dragonbone Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 30,
+              "d": "Undisputed",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Constellation Cleaver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Resplendent Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Marble Dedication",
+          "c": "Any",
+          "u": [
+            {
+              "i": 363,
+              "d": "Monument of Protection",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Kolheim Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Avenged Kolheim Axe",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "t": "1H Dagger",
+      "d": "Dagger",
+      "g": [
+        1,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Poignard",
+          "c": "Any",
+          "u": [
+            {
+              "i": 136,
+              "d": "Smoke Weaver",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Sacrificial Knife",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Bone Dagger",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Kris",
+          "c": "Any",
+          "u": [
+            {
+              "i": 236,
+              "d": "Drought's Release",
+              "s": null
+            },
+            {
+              "i": 342,
+              "d": "Traitor's Tongue",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Hunting Knife",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Moon Dagger",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Majasan Dagger",
+          "c": "Any",
+          "u": [
+            {
+              "i": 285,
+              "d": "Jelkhor's Blast Knife",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Rune Dagger",
+          "c": "Any",
+          "u": [
+            {
+              "i": 388,
+              "d": "Cocooned Dagger",
+              "s": null
+            },
+            {
+              "i": 315,
+              "d": "Dragorath's Claw",
+              "s": null
+            },
+            {
+              "i": 227,
+              "d": "Ferebor's Chisel",
+              "s": 17
+            },
+            {
+              "i": 284,
+              "d": "The Ghost Maker",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Sai",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Chitin Dagger",
+          "c": "Any",
+          "u": [
+            {
+              "i": 442,
+              "d": "Velocyn's Jaw",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Obsidian Dagger",
+          "c": "Any",
+          "u": [
+            {
+              "i": 192,
+              "d": "Fulgurite Shard",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Star Amber Dagger",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Negotiation Dagger",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Shark Tooth",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Avenged Shark Tooth",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "t": "1H Maces",
+      "d": "One-Handed Mace",
+      "g": [
+        1,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Club",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Iron Hammer",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Flanged Mace",
+          "c": "Any",
+          "u": [
+            {
+              "i": 80,
+              "d": "Bloodgeon",
+              "s": null
+            },
+            {
+              "i": 381,
+              "d": "Cocooned Club",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Morning Star",
+          "c": "Any",
+          "u": [
+            {
+              "i": 79,
+              "d": "Apiarist's Comb",
+              "s": 3
+            },
+            {
+              "i": 170,
+              "d": "Sinathia's Dying Breath",
+              "s": 13
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Pick Hammer",
+          "c": "Any",
+          "u": [
+            {
+              "i": 245,
+              "d": "Renegade's Will",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Ebertusk Club",
+          "c": "Any",
+          "u": [
+            {
+              "i": 82,
+              "d": "Arek's Bones",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Urchin Star",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Serpent Mace",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Solarum Hammer",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Doom Star",
+          "c": "Any",
+          "u": [
+            {
+              "i": 406,
+              "d": "Nest of Nightmares",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Rune Hammer",
+          "c": "Any",
+          "u": [
+            {
+              "i": 438,
+              "d": "Whetstone Gavel",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Trade Star",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Planetary Mace",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Chitin Club",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Avenged Chitin Club",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 8,
+      "t": "1H Scepter",
+      "d": "Sceptre",
+      "g": [
+        1,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Brass Sceptre",
+          "c": "Any",
+          "u": [
+            {
+              "i": 389,
+              "d": "Cocooned Sceptre",
+              "s": null
+            },
+            {
+              "i": 282,
+              "d": "Firestarter's Torch",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Ice Sceptre",
+          "c": "Any",
+          "u": [
+            {
+              "i": 32,
+              "d": "Frozen Ire",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Ornate Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Cultist Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Oak Sceptre",
+          "c": "Any",
+          "u": [
+            {
+              "i": 127,
+              "d": "Boardman's Plank",
+              "s": 10
+            },
+            {
+              "i": 234,
+              "d": "Hazelroot",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Auric Sceptre",
+          "c": "Any",
+          "u": [
+            {
+              "i": 33,
+              "d": "Culnivar's Claim",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Argent Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Acolyte's Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Obsidian Sceptre",
+          "c": "Any",
+          "u": [
+            {
+              "i": 355,
+              "d": "Aberroth's Command",
+              "s": null
+            },
+            {
+              "i": 156,
+              "d": "Gaspar's Will",
+              "s": 12
+            },
+            {
+              "i": 318,
+              "d": "The Shattered Cycle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Skeletal Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Celestial Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Vault Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Scorn Sceptre",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Avenged Scorn Sceptre",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 9,
+      "t": "1H Swords",
+      "d": "One-Handed Sword",
+      "g": [
+        1,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Broken Sword",
+          "c": "Any",
+          "u": [
+            {
+              "i": 109,
+              "d": "Shard of the Shattered Lance",
+              "s": 9
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Broadsword",
+          "c": "Any",
+          "u": [
+            {
+              "i": 143,
+              "d": "Gladiator's Oath",
+              "s": null
+            },
+            {
+              "i": 346,
+              "d": "Palarus's Sacred Light",
+              "s": null
+            },
+            {
+              "i": 349,
+              "d": "Yrun's Penance",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Rust Blade",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Gladius",
+          "c": "Any",
+          "u": [
+            {
+              "i": 34,
+              "d": "Humming Bee",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Cultist Blade",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Falchion",
+          "c": "Any",
+          "u": [
+            {
+              "i": 456,
+              "d": "Kuzon's Fury",
+              "s": 21
+            },
+            {
+              "i": 36,
+              "d": "Rainbow Edge",
+              "s": null
+            },
+            {
+              "i": 418,
+              "d": "Scissor of Atropos",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Longsword",
+          "c": "Any",
+          "u": [
+            {
+              "i": 292,
+              "d": "Apogee of Frozen Light",
+              "s": null
+            },
+            {
+              "i": 225,
+              "d": "Aurelis",
+              "s": null
+            },
+            {
+              "i": 88,
+              "d": "Blade of the Forgotten Knight",
+              "s": 5
+            },
+            {
+              "i": 379,
+              "d": "Cocooned Short Sword",
+              "s": null
+            },
+            {
+              "i": 466,
+              "d": "Jormun's Feast",
+              "s": 22
+            },
+            {
+              "i": 408,
+              "d": "Weaver's Gift",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Nagasa Scymitar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Crystal Sword",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Katana",
+          "c": "Any",
+          "u": [
+            {
+              "i": 35,
+              "d": "Eye of Reen",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Dawn Blade",
+          "c": "Any",
+          "u": [
+            {
+              "i": 223,
+              "d": "Chronostasis",
+              "s": null
+            },
+            {
+              "i": 311,
+              "d": "Transcriber's Graver",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Prophecy Blade",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Gilded Rapier",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Serrated Tooth",
+          "c": "Any",
+          "u": [
+            {
+              "i": 336,
+              "d": "Naal's Tooth",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Cavalry Sword",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Avenged Cavalry Sword",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 10,
+      "t": "Wands",
+      "d": "Wand",
+      "g": [
+        1,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Coral Wand",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Rowan Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 38,
+              "d": "Alchemist's Ladle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Archive Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 308,
+              "d": "Abacus Rod",
+              "s": null
+            },
+            {
+              "i": 37,
+              "d": "Cinder Song",
+              "s": null
+            },
+            {
+              "i": 39,
+              "d": "Reach of the Grave",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Ornate Wand",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Spriggan Branch",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Ritual Stake",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Ivory Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 432,
+              "d": "Horn of the Bone Wisp",
+              "s": null
+            },
+            {
+              "i": 100,
+              "d": "Pebbles' Femur",
+              "s": 8
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Birch Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 321,
+              "d": "Mad Alchemist's Ladle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Profane Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 181,
+              "d": "Marina's Lost Soul",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Crystal Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 310,
+              "d": "Wrongwarp",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Dragonhorn Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 390,
+              "d": "Cocooned Wand",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Siren Wand",
+          "c": "Any",
+          "u": [
+            {
+              "i": 351,
+              "d": "Triboelectra",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Astrology Wand",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Lodestone Wand",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Avenged Lodestone Wand",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 12,
+      "t": "2H Axes",
+      "d": "Two-Handed Axe",
+      "g": [
+        2,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Forestry Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Refuge Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 244,
+              "d": "Harthenon's Vow",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Cultist Chopper",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Bearded Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 40,
+              "d": "Bone Harvester",
+              "s": null
+            },
+            {
+              "i": 383,
+              "d": "Cocooned Great Axe",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Imperial Halberd",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Ice Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Great Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Jade Cleaver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Obsidian Axe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 179,
+              "d": "Apathy's Maw",
+              "s": null
+            },
+            {
+              "i": 437,
+              "d": "Primal Cadence",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Bone Scythe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 220,
+              "d": "Death's Embrace",
+              "s": null
+            },
+            {
+              "i": 269,
+              "d": "Scales of Lemniscate",
+              "s": null
+            },
+            {
+              "i": 230,
+              "d": "Usurper's Mandate",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Bardiche",
+          "c": "Any",
+          "u": [
+            {
+              "i": 338,
+              "d": "Sword Catcher",
+              "s": null
+            },
+            {
+              "i": 365,
+              "d": "World Splitter",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Radiant Axe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Silver Crescent",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Fire Lich Scythe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 259,
+              "d": "Pyre of Affliction",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Orbit Cleaver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "War Anchor",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Sun Beak",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Avenged Sun Beak",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 13,
+      "t": "2H Maces",
+      "d": "Two-Handed Mace",
+      "g": [
+        2,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Great Mace",
+          "c": "Any",
+          "u": [
+            {
+              "i": 384,
+              "d": "Cocooned Great Mace",
+              "s": null
+            },
+            {
+              "i": 41,
+              "d": "Hammer of Lorent",
+              "s": null
+            },
+            {
+              "i": 43,
+              "d": "Storm Breaker",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Spiked Great Club",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Maul",
+          "c": "Any",
+          "u": [
+            {
+              "i": 42,
+              "d": "Torch Of The Pontifex",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Spiked Maul",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Giant Club",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Great Hammer",
+          "c": "Any",
+          "u": [
+            {
+              "i": 85,
+              "d": "Sunforged Hammer",
+              "s": 4
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Titan Femur",
+          "c": "Any",
+          "u": [
+            {
+              "i": 162,
+              "d": "Bhuldar's Wrath",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Terror Mace",
+          "c": "Any",
+          "u": [
+            {
+              "i": 279,
+              "d": "Shadow Beacon",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Lucerne",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Eber Head",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Star Hammer",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Vault Crusher",
+          "c": "Any",
+          "u": [
+            {
+              "i": 364,
+              "d": "Event Horizon",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Obsidian Hammer",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Avenged Obsidian Hammer",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 14,
+      "t": "2H Polearm",
+      "d": "Two-Handed Spear",
+      "g": [
+        2,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Pike",
+          "c": "Any",
+          "u": [
+            {
+              "i": 371,
+              "d": "Phalanx",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Short Spear",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Ice Spear",
+          "c": "Any",
+          "u": [
+            {
+              "i": 45,
+              "d": "Morditas' Reach",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Impaler",
+          "c": "Any",
+          "u": [
+            {
+              "i": 427,
+              "d": "Harmony of the First",
+              "s": null
+            },
+            {
+              "i": 226,
+              "d": "Tu'rani's Bident",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Trident",
+          "c": "Any",
+          "u": [
+            {
+              "i": 320,
+              "d": "Sierpin's Fractal Tree",
+              "s": null
+            },
+            {
+              "i": 120,
+              "d": "Trident of the Last Abyss",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Glaive",
+          "c": "Any",
+          "u": [
+            {
+              "i": 44,
+              "d": "Draalsting",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Polesword",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Dragonslayer Glaive",
+          "c": "Any",
+          "u": [
+            {
+              "i": 352,
+              "d": "Plague Dragon's Tongue",
+              "s": null
+            },
+            {
+              "i": 224,
+              "d": "The Judicator",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Deicide Lance",
+          "c": "Any",
+          "u": [
+            {
+              "i": 345,
+              "d": "Bane of Winter",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Sun Spear",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Dredge Hook",
+          "c": "Any",
+          "u": [
+            {
+              "i": 385,
+              "d": "Cocooned Spear",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Coiled Bident",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Obsidian Lance",
+          "c": "Any",
+          "u": [
+            {
+              "i": 407,
+              "d": "Essence Weaver",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 13,
+          "d": "Jadebone Javelin",
+          "c": "Any",
+          "u": [
+            {
+              "i": 184,
+              "d": "Lethal Concentration",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Rat City Impaler",
+          "c": "Any",
+          "u": [
+            {
+              "i": 273,
+              "d": "Lament of the Lost Refuge",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Mesembrian Spear",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Harpoon",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Raptor Spear",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Avenged Raptor Spear",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 15,
+      "t": "2H Staff",
+      "d": "Two-Handed Staff",
+      "g": [
+        1,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Travelling Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 305,
+              "d": "Reowyn's Fortress",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Root Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 274,
+              "d": "Branch of Hallows",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Sacrificial Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Quarter Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 289,
+              "d": "Bo's Anarchy",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Imperial Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 205,
+              "d": "Curse of Perseverance",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Spine Rod",
+          "c": "Any",
+          "u": [
+            {
+              "i": 209,
+              "d": "Aberrant Call",
+              "s": null
+            },
+            {
+              "i": 73,
+              "d": "Plague Bearer's Staff",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Shamanic Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 97,
+              "d": "Halvar's Pledge",
+              "s": 7
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Moon Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 186,
+              "d": "Vilatria's Downfall",
+              "s": 15
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Crystal Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 445,
+              "d": "Spirit Xylem",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Horned Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Temple Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 169,
+              "d": "Aergon's Refuge",
+              "s": null
+            },
+            {
+              "i": 419,
+              "d": "Blight of Lachesis",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Bladed Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 190,
+              "d": "Jasper's Searing Pride",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Gate Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Dragon Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 386,
+              "d": "Cocooned Staff",
+              "s": null
+            },
+            {
+              "i": 124,
+              "d": "Dragonflame Edict",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Abyssal Staff",
+          "c": "Any",
+          "u": [
+            {
+              "i": 367,
+              "d": "Celestial Doom",
+              "s": null
+            },
+            {
+              "i": 149,
+              "d": "Omnividence",
+              "s": null
+            },
+            {
+              "i": 323,
+              "d": "Wheel of Torment",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Prophecy Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Mercantile Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Ram Staff",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Avenged Ram Staff",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 16,
+      "t": "2H Swords",
+      "d": "Two-Handed Sword",
+      "g": [
+        2,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Bastard Sword",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Split Greatsword",
+          "c": "Any",
+          "u": [
+            {
+              "i": 49,
+              "d": "Dreamthorn",
+              "s": null
+            },
+            {
+              "i": 405,
+              "d": "Orb Weaver's Fang",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Imperial Warblade",
+          "c": "Any",
+          "u": [
+            {
+              "i": 382,
+              "d": "Cocooned Great Sword",
+              "s": null
+            },
+            {
+              "i": 47,
+              "d": "The Last Laugh",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Khopesh",
+          "c": "Any",
+          "u": [
+            {
+              "i": 212,
+              "d": "Eternal Eclipse",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Claymore",
+          "c": "Any",
+          "u": [
+            {
+              "i": 201,
+              "d": "Battlemage's Endeavour",
+              "s": null
+            },
+            {
+              "i": 250,
+              "d": "Torkrefin's Hunger",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Odachi",
+          "c": "Any",
+          "u": [
+            {
+              "i": 339,
+              "d": "Black Blade of Chaos",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Winged Blade",
+          "c": "Any",
+          "u": [
+            {
+              "i": 319,
+              "d": "Merophage",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Flamberge",
+          "c": "Any",
+          "u": [
+            {
+              "i": 122,
+              "d": "Alluvion",
+              "s": null
+            },
+            {
+              "i": 330,
+              "d": "Spine of Malatros",
+              "s": null
+            },
+            {
+              "i": 48,
+              "d": "Volcanus",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Hollow Blade",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Zweihander",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Solarum Greatsword",
+          "c": "Any",
+          "u": [
+            {
+              "i": 183,
+              "d": "Leviathan Carver",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Celestial Greatsword",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Great Cutlass",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Great Macuahuitl",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Avenged Great Macuahuitl",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Giant Rapier",
+          "c": "Any",
+          "u": [
+            {
+              "i": 417,
+              "d": "Clotho's Needle",
+              "s": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "b": 17,
+      "t": "Quiver",
+      "d": "Quiver",
+      "g": [
+        2,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Light Quiver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Heavy Quiver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 148,
+              "d": "Arrowguard",
+              "s": null
+            },
+            {
+              "i": 361,
+              "d": "Phase Point",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Ivory Quiver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Nomad Quiver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 189,
+              "d": "Sanguine Hoard",
+              "s": null
+            },
+            {
+              "i": 146,
+              "d": "Troaka's Teeth",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Farwood Quiver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Skalnir Quiver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 392,
+              "d": "Cocooned Quiver",
+              "s": null
+            },
+            {
+              "i": 251,
+              "d": "Zeurial's Hunt",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Nagasa Quiver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Spidersilk Quiver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 215,
+              "d": "Nightbringer",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Steelweave Quiver",
+          "c": "Any",
+          "u": [
+            {
+              "i": 378,
+              "d": "Crystalwind",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Blade Quiver",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Avenged Blade Quiver",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 18,
+      "t": "Shield",
+      "d": "Shield",
+      "g": [
+        2,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Wooden Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 51,
+              "d": "Close Call",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Targe",
+          "c": "Any",
+          "u": [
+            {
+              "i": 295,
+              "d": "Cradle of the Erased",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Heater Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 166,
+              "d": "Moenia Mentis",
+              "s": null
+            },
+            {
+              "i": 52,
+              "d": "Soul Bastion",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Renegade Shield",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Cavalier Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 450,
+              "d": "Unbroken Charge",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Tower Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 89,
+              "d": "Defiance of the Forgotten Knight",
+              "s": 5
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Bandit Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 193,
+              "d": "Corsair's Boarding Shield",
+              "s": 16
+            },
+            {
+              "i": 145,
+              "d": "Life's Journey",
+              "s": null
+            },
+            {
+              "i": 329,
+              "d": "Sigeon's Reprisal",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Root Shield",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Frostbound Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 161,
+              "d": "Faith of the Frozen",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Kite Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 393,
+              "d": "Cocooned Shield",
+              "s": null
+            },
+            {
+              "i": 362,
+              "d": "Grim Constitution",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Meruna Shell",
+          "c": "Any",
+          "u": [
+            {
+              "i": 121,
+              "d": "Coral Aegis",
+              "s": null
+            },
+            {
+              "i": 237,
+              "d": "Thornshell",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Mountain Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 155,
+              "d": "Horns of Uhkeiros",
+              "s": null
+            },
+            {
+              "i": 428,
+              "d": "Onslaught of Cerata",
+              "s": null
+            },
+            {
+              "i": 171,
+              "d": "Sinathia's Resurrection",
+              "s": 13
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Carapace Shield",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Ironglass Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 119,
+              "d": "Bulwark of the Last Abyss",
+              "s": null
+            },
+            {
+              "i": 411,
+              "d": "Countenance of Majasa",
+              "s": null
+            },
+            {
+              "i": 174,
+              "d": "Ruby Fang Aegis",
+              "s": 14
+            },
+            {
+              "i": 50,
+              "d": "The Slab",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Dawn Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 53,
+              "d": "Rahyeh's Light",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Rotskin Round Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 210,
+              "d": "Flayer's Pride",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 16,
+          "d": "Stone Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 254,
+              "d": "Face of the Mountain",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 17,
+          "d": "Old Kite Shield",
+          "c": "Any",
+          "u": [
+            {
+              "i": 198,
+              "d": "Bastion of Honour",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 18,
+          "d": "Ship Wheel",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Ephemeris Shield",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Culnivan Shield",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 21,
+          "d": "Avenged Culnivan Shield",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 19,
+      "t": "Catalyst",
+      "d": "Off-Hand Catalyst",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Glass Catalyst",
+          "c": "Any",
+          "u": [
+            {
+              "i": 377,
+              "d": "Gordian Prism",
+              "s": null
+            },
+            {
+              "i": 331,
+              "d": "Vial of Volatile Ice",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Leatherbound Tome",
+          "c": "Any",
+          "u": [
+            {
+              "i": 247,
+              "d": "Chronicle of the Damned",
+              "s": null
+            },
+            {
+              "i": 369,
+              "d": "Tolmat's Incorrect History of Eterra",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Ritual Stone",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Branded Skull",
+          "c": "Any",
+          "u": [
+            {
+              "i": 74,
+              "d": "Ignivar's Head",
+              "s": null
+            },
+            {
+              "i": 283,
+              "d": "Rotmind",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Sapphire Tome",
+          "c": "Any",
+          "u": [
+            {
+              "i": 394,
+              "d": "Cocooned Catalyst",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Osprix Skull",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Rune Stone",
+          "c": "Any",
+          "u": [
+            {
+              "i": 286,
+              "d": "Fragment of the Enigma",
+              "s": null
+            },
+            {
+              "i": 123,
+              "d": "Symbol of Demise",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Astrolabe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Opulent Focus",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Dragon Eye",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Fleshbound Tome",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Crystal Skull",
+          "c": "Any",
+          "u": [
+            {
+              "i": 261,
+              "d": "Lich's Scorn",
+              "s": 18
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Chronolabe",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Divine Instrument",
+          "c": "Any",
+          "u": [
+            {
+              "i": 447,
+              "d": "Bones of the Ancestral Pack",
+              "s": null
+            },
+            {
+              "i": 317,
+              "d": "Frey's Retreat",
+              "s": null
+            },
+            {
+              "i": 195,
+              "d": "Scales of Eterra",
+              "s": null
+            },
+            {
+              "i": 196,
+              "d": "Scales of Eterra",
+              "s": null
+            },
+            {
+              "i": 197,
+              "d": "Scales of Eterra",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Avian Puppet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 322,
+              "d": "The Cuckoo",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Soulmass",
+          "c": "Any",
+          "u": [
+            {
+              "i": 328,
+              "d": "Stygian Coal",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 16,
+          "d": "Trade Ledger",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Celestial Compass",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Crystal Core",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Avenged Crystal Core",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Iron Smoker",
+          "c": "Any",
+          "u": [
+            {
+              "i": 77,
+              "d": "Apiarist's Smoker",
+              "s": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "b": 20,
+      "t": "Amulet",
+      "d": "Amulet",
+      "g": [
+        1,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Copper Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 54,
+              "d": "Strong Mind",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Jade Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 55,
+              "d": "Bleeding Heart",
+              "s": null
+            },
+            {
+              "i": 56,
+              "d": "Chimaera's Essence",
+              "s": null
+            },
+            {
+              "i": 165,
+              "d": "Serpent's Milk",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Silver Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 90,
+              "d": "Locket of the Forgotten Knight",
+              "s": 5
+            },
+            {
+              "i": 175,
+              "d": "Omnis",
+              "s": null
+            },
+            {
+              "i": 57,
+              "d": "The Invoker's Frozen Heart",
+              "s": 2
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Brass Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 154,
+              "d": "Eye of Storms",
+              "s": null
+            },
+            {
+              "i": 114,
+              "d": "Frozen Eyes of Formosus",
+              "s": null
+            },
+            {
+              "i": 58,
+              "d": "The Claw",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Turquoise Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 397,
+              "d": "Cocooned Amulet",
+              "s": null
+            },
+            {
+              "i": 59,
+              "d": "Death Rattle",
+              "s": null
+            },
+            {
+              "i": 278,
+              "d": "Tears of the Forest",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Ruby Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 176,
+              "d": "Aurora's Time Glass",
+              "s": null
+            },
+            {
+              "i": 130,
+              "d": "Gambler's Fallacy",
+              "s": null
+            },
+            {
+              "i": 265,
+              "d": "Soul Gambler's Fallacy",
+              "s": null
+            },
+            {
+              "i": 133,
+              "d": "Xithara's Conundrum",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Sapphire Amulet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Bone Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 290,
+              "d": "Apostate's Sanctuary",
+              "s": null
+            },
+            {
+              "i": 164,
+              "d": "Logi's Hunger",
+              "s": null
+            },
+            {
+              "i": 374,
+              "d": "Pearls of the Swine",
+              "s": null
+            },
+            {
+              "i": 375,
+              "d": "Pearls of the Swine",
+              "s": null
+            },
+            {
+              "i": 376,
+              "d": "Pearls of the Swine",
+              "s": null
+            },
+            {
+              "i": 60,
+              "d": "The Fang",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Oracle Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 469,
+              "d": "Exulis",
+              "s": null
+            },
+            {
+              "i": 409,
+              "d": "Inheritance of the Erased",
+              "s": null
+            },
+            {
+              "i": 61,
+              "d": "Orian's Eye",
+              "s": null
+            },
+            {
+              "i": 118,
+              "d": "The Confluence of Fate",
+              "s": null
+            },
+            {
+              "i": 439,
+              "d": "Truesight Glass",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Gold Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 191,
+              "d": "Devotion",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Astrology Amulet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Mercantile Amulet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Unbound Locket",
+          "c": "Any",
+          "u": [
+            {
+              "i": 353,
+              "d": "Nihilis",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 13,
+          "d": "Amber Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 368,
+              "d": "Mana Guide",
+              "s": null
+            },
+            {
+              "i": 425,
+              "d": "Wildfire Embers",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 14,
+          "d": "Stone Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 429,
+              "d": "Blossom of Immortal Stone",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Fossil Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 444,
+              "d": "Evolution's End",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 16,
+          "d": "Deadstar Amulet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Cursed Coin Amulet",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Spider Eye Amulet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 454,
+              "d": "Abandoned Eyes of the Weaver",
+              "s": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "b": 21,
+      "t": "Ring",
+      "d": "Ring",
+      "g": [
+        1,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Copper Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 348,
+              "d": "Phantom Grip",
+              "s": null
+            },
+            {
+              "i": 62,
+              "d": "Ring of the Third Eye",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Ruby Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 257,
+              "d": "Ashes of Mortality",
+              "s": null
+            },
+            {
+              "i": 84,
+              "d": "Heirloom of the Last Nomad",
+              "s": null
+            },
+            {
+              "i": 467,
+              "d": "Keplahan's Pyrolith",
+              "s": 23
+            },
+            {
+              "i": 113,
+              "d": "Ribbons of Blood",
+              "s": null
+            },
+            {
+              "i": 150,
+              "d": "Sunwreath",
+              "s": null
+            },
+            {
+              "i": 63,
+              "d": "The Invoker's Scorching Grasp",
+              "s": 2
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Sapphire Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 238,
+              "d": "Julra's Stardial",
+              "s": null
+            },
+            {
+              "i": 468,
+              "d": "Keplahan's Cryolith",
+              "s": 23
+            },
+            {
+              "i": 125,
+              "d": "Oceareon",
+              "s": null
+            },
+            {
+              "i": 64,
+              "d": "The Invoker's Static Touch",
+              "s": 2
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Silver Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 65,
+              "d": "Arboreal Circuit",
+              "s": null
+            },
+            {
+              "i": 262,
+              "d": "Penumbra",
+              "s": null
+            },
+            {
+              "i": 135,
+              "d": "Quicksilver Coil",
+              "s": null
+            },
+            {
+              "i": 277,
+              "d": "Red Ring of Atlaria",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Gold Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 396,
+              "d": "Cocooned Ring",
+              "s": null
+            },
+            {
+              "i": 294,
+              "d": "Font of the Erased",
+              "s": null
+            },
+            {
+              "i": 76,
+              "d": "Liath's Signet",
+              "s": null
+            },
+            {
+              "i": 340,
+              "d": "Orian's Sun Seal",
+              "s": null
+            },
+            {
+              "i": 177,
+              "d": "Siphon of Anguish",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Captain's Ring",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Jade Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 200,
+              "d": "Tongue of the Aberrant Seer",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Turquoise Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 66,
+              "d": "Hollow Finger",
+              "s": null
+            },
+            {
+              "i": 235,
+              "d": "Silvafrond",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Ivory Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 303,
+              "d": "Cycle of Putrescence",
+              "s": null
+            },
+            {
+              "i": 228,
+              "d": "Ferebor's Persistence",
+              "s": 17
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Coral Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 360,
+              "d": "Carcinization of Momentum",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Opal Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 423,
+              "d": "Legends Entwined",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Celestial Ring",
+          "c": "Any",
+          "u": [
+            {
+              "i": 455,
+              "d": "Abandoned Chitin of the Weaver",
+              "s": 20
+            },
+            {
+              "i": 440,
+              "d": "Bluefeather Band",
+              "s": null
+            },
+            {
+              "i": 366,
+              "d": "Flames of Midnight",
+              "s": null
+            },
+            {
+              "i": 470,
+              "d": "Oculus of Ruin",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Mercantile Insignia",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Old Silver Ring",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Corrupted Insignia",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Opal Eye Ring",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 22,
+      "t": "Relic",
+      "d": "Relic",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Reliquary Text",
+          "c": "Any",
+          "u": [
+            {
+              "i": 101,
+              "d": "Pebbles' Collar",
+              "s": 8
+            },
+            {
+              "i": 67,
+              "d": "Tome of Elements",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Lost Journal",
+          "c": "Any",
+          "u": [
+            {
+              "i": 108,
+              "d": "Melvern's Writ",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Reliquary Grimoire",
+          "c": "Any",
+          "u": [
+            {
+              "i": 68,
+              "d": "Grimoire of Necrotic Elixirs",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 3,
+          "d": "Copper Chalice",
+          "c": "Any",
+          "u": [
+            {
+              "i": 163,
+              "d": "Herkir's Vessel",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Silver Grail",
+          "c": "Any",
+          "u": [
+            {
+              "i": 71,
+              "d": "Valdyr's Chalice",
+              "s": null
+            },
+            {
+              "i": 241,
+              "d": "Vessel of Strife",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 5,
+          "d": "Golden Chalice",
+          "c": "Any",
+          "u": [
+            {
+              "i": 395,
+              "d": "Cocooned Relic",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Grave Lantern",
+          "c": "Any",
+          "u": [
+            {
+              "i": 70,
+              "d": "Soulfire",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Overgrowth Bloom",
+          "c": "Any",
+          "u": [
+            {
+              "i": 267,
+              "d": "Ashes of Orchirian",
+              "s": null
+            },
+            {
+              "i": 99,
+              "d": "Last Gift of the Mountain",
+              "s": 7
+            },
+            {
+              "i": 72,
+              "d": "Orchirian's Petals",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Navigation Orb",
+          "c": "Any",
+          "u": [
+            {
+              "i": 81,
+              "d": "Ucenui's Sphere",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Broken Hilt",
+          "c": "Any",
+          "u": [
+            {
+              "i": 107,
+              "d": "Murama's Hilt",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Splintered Haft",
+          "c": "Any",
+          "u": [
+            {
+              "i": 110,
+              "d": "Fragments of the Shattered Lance",
+              "s": 9
+            }
+          ]
+        },
+        {
+          "i": 11,
+          "d": "Defiled Bones",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 341,
+              "d": "Cruelty",
+              "s": null
+            },
+            {
+              "i": 410,
+              "d": "Unearthed Memories",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Caged Souls",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 300,
+              "d": "Ambitions of an Erased Acolyte",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 13,
+          "d": "Homunculus Bile",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Cursed Bones",
+          "c": "Acolyte",
+          "u": [
+            {
+              "i": 414,
+              "d": "Downfall of the Righteous",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 15,
+          "d": "Runed Bones",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Decaying Homunculus",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Damned Souls",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Homunculus Blood",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Putrid Souls",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Runic Scroll",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 21,
+          "d": "Arcane Quill",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 22,
+          "d": "Third Eye",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 182,
+              "d": "Eye of Orexia",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 23,
+          "d": "Scrivening Quill",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 249,
+              "d": "Diothaen's Bloody Nib",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 24,
+          "d": "Ancient Scroll",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 25,
+          "d": "Scrying Eye",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 26,
+          "d": "Warding Scroll",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 298,
+              "d": "Knowledge of an Erased Mage",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 27,
+          "d": "Rune Quill",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 28,
+          "d": "Elder Eye",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 29,
+          "d": "Dream Catcher",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 297,
+              "d": "Dedication of an Erased Primalist",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 30,
+          "d": "Sage Antler",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 31,
+          "d": "Living Seed",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 403,
+              "d": "Soul of the Mountain",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 32,
+          "d": "Ochre Antler",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 33,
+          "d": "Spriggan Seed",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 34,
+          "d": "Blood Catcher",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 35,
+          "d": "Frostborn Seed",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 36,
+          "d": "Spirit Catcher",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 37,
+          "d": "Woad Antler",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 38,
+          "d": "Sunrise Emblem",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 39,
+          "d": "Heretical Script",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 40,
+          "d": "Mournful Pennant",
+          "c": "Sentinel",
+          "u": [
+            {
+              "i": 281,
+              "d": "Vortex Pennant",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 41,
+          "d": "Inscribed Tablet",
+          "c": "Sentinel",
+          "u": [
+            {
+              "i": 299,
+              "d": "Code of an Erased Sentinel",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 42,
+          "d": "Solarum Banner",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 43,
+          "d": "Solar Commandment",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 44,
+          "d": "Argent Crest",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 45,
+          "d": "Dread Banner",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 46,
+          "d": "Tainted Effigy",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 47,
+          "d": "Ivory Dice",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 301,
+              "d": "Gambit of an Erased Rogue",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 48,
+          "d": "Venom Phial",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 49,
+          "d": "Weathered Coins",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 50,
+          "d": "Stolen Tithe",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 291,
+              "d": "Pillager's Gold",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 51,
+          "d": "Oil Vial",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 207,
+              "d": "Kelthan Blasting Agent",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 52,
+          "d": "Jade Dice",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 451,
+              "d": "Doppelganger's Mimicry",
+              "s": 19
+            }
+          ]
+        },
+        {
+          "i": 53,
+          "d": "Ruby Dice",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 54,
+          "d": "Antidote Vial",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 55,
+          "d": "Ancient Coins",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 56,
+          "d": "Lost Anchor",
+          "c": "Any",
+          "u": [
+            {
+              "i": 152,
+              "d": "Anchor of Oblivion",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 57,
+          "d": "Stone Tablet",
+          "c": "Any",
+          "u": [
+            {
+              "i": 214,
+              "d": "Stormcarved Testament",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 58,
+          "d": "Dragon Heart",
+          "c": "Any",
+          "u": [
+            {
+              "i": 216,
+              "d": "Twisted Heart of Uhkeiros",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 59,
+          "d": "Blood Encased Hive",
+          "c": "Any",
+          "u": [
+            {
+              "i": 268,
+              "d": "Bloodkeeper's Nest",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 60,
+          "d": "Runed Box",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 312,
+              "d": "Box of Hydrae",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 61,
+          "d": "Stone Egg",
+          "c": "Any",
+          "u": [
+            {
+              "i": 343,
+              "d": "Egg of the Forgotten",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 62,
+          "d": "Void Star",
+          "c": "Any",
+          "u": [
+            {
+              "i": 413,
+              "d": "Shattered Worlds",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 63,
+          "d": "Ancient Remains",
+          "c": "Any",
+          "u": [
+            {
+              "i": 433,
+              "d": "Reliquary Nest",
+              "s": null
+            },
+            {
+              "i": 424,
+              "d": "Tyrant's Skull",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 64,
+          "d": "Timeglass Chalice",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 65,
+          "d": "Doom Gourd",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 66,
+          "d": "Aberrant Eye",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 67,
+          "d": "Apocalypse Code",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 68,
+          "d": "Prophetic Homonculus",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 69,
+          "d": "Bottled Time",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 70,
+          "d": "Bramble Totem",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 460,
+              "d": "Laup's Path",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 71,
+          "d": "Artificer's Device",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 459,
+              "d": "Artifice of Devastation",
+              "s": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "b": 23,
+      "t": "Bows",
+      "d": "Bow",
+      "g": [
+        2,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Shortbow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 141,
+              "d": "Hell Reach",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Birch Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 242,
+              "d": "Shadow String",
+              "s": null
+            },
+            {
+              "i": 137,
+              "d": "Uethrin's Stand",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Salvaged Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Imperial Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 231,
+              "d": "Longshot",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 4,
+          "d": "Recurve Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Northern Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Longbow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 243,
+              "d": "Dragonsong",
+              "s": null
+            },
+            {
+              "i": 142,
+              "d": "Drelkor's Compass",
+              "s": null
+            },
+            {
+              "i": 159,
+              "d": "Reign of Winter",
+              "s": null
+            },
+            {
+              "i": 334,
+              "d": "Talons of Valor",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Dreadthorn Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 168,
+              "d": "Flight of the First",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 8,
+          "d": "Serpent Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 144,
+              "d": "Acidfletch",
+              "s": null
+            },
+            {
+              "i": 441,
+              "d": "Hydra Arc",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 9,
+          "d": "Osprix Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 391,
+              "d": "Cocooned Bow",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 10,
+          "d": "Obsidian Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Storm Bow",
+          "c": "Rogue",
+          "u": [
+            {
+              "i": 271,
+              "d": "Gathering Fury",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 12,
+          "d": "Aphelion Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Sharktooth Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Silverwing Bow",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Avenged Silverwing Bow",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 25,
+      "t": "Small Idol",
+      "d": "Small Idol",
+      "g": [
+        1,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Small Eterran Idol",
+          "c": "Any",
+          "u": [
+            {
+              "i": 246,
+              "d": "Singularity",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Small Orobyss Idol",
+          "c": "Any",
+          "u": [
+            {
+              "i": 344,
+              "d": "Harbinger's Needle",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Small Weaver Idol",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 26,
+      "t": "Small Lagonian Idol",
+      "d": "Minor Idol",
+      "g": [
+        1,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Minor Lagonian Idol",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Minor Weaver Idol",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 27,
+      "t": "Humble Idol",
+      "d": "Humble Idol",
+      "g": [
+        2,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Humble Eterran Idol",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Humble Weaver Idol",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 28,
+      "t": "Stout Idol",
+      "d": "Stout Idol",
+      "g": [
+        1,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Stout Lagonian Idol",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Stout Weaver Idol",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 29,
+      "t": "Grand Idol",
+      "d": "Grand Idol",
+      "g": [
+        3,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Grand Heorot Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Grand Glass Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Grand Solar Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Grand Bone Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Grand Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Heretical Grand Heorot Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Heretical Grand Glass Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Heretical Grand Solar Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Heretical Grand Bone Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretical Grand Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Grand Primal Omen Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Grand Arcane Omen Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Grand Iron Omen Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Grand Spectral Omen Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Grand Umbral Omen Idol",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 30,
+      "t": "Large Idol",
+      "d": "Large Idol",
+      "g": [
+        1,
+        3
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Large Nomad Idol",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 462,
+              "d": "Natural Wrath",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Large Arcane Idol",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 324,
+              "d": "Unvar's Rise",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Large Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Large Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Large Shadow Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Heretical Large Nomad Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Heretical Large Arcane Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Heretical Large Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Heretical Large Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretical Large Shadow Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Large Primal Omen Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Large Arcane Omen Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Large Iron Omen Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Large Spectral Omen Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Large Umbral Omen Idol",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 31,
+      "t": "Ornate Idol",
+      "d": "Ornate Idol",
+      "g": [
+        4,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Ornate Heorot Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Ornate Glass Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Ornate Solar Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Ornate Bone Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Ornate Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Heretical Ornate Heorot Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Heretical Ornate Glass Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Heretical Ornate Solar Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Heretical Ornate Bone Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretical Ornate Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 32,
+      "t": "Huge Idol",
+      "d": "Huge Idol",
+      "g": [
+        1,
+        4
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Huge Nomad Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Huge Arcane Idol",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 326,
+              "d": "Unvar's Exile",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Huge Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Huge Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Huge Shadow Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Heretical Huge Nomad Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Heretical Huge Arcane Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Heretical Huge Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Heretical Huge Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretical Huge Shadow Idol",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 33,
+      "t": "Adorned Idol",
+      "d": "Adorned Idol",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Adorned Heorot Idol",
+          "c": "Primalist",
+          "u": [
+            {
+              "i": 421,
+              "d": "The Land Before",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 1,
+          "d": "Adorned Arcane Idol",
+          "c": "Mage",
+          "u": [
+            {
+              "i": 325,
+              "d": "Unvar's Hegemony",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 2,
+          "d": "Adorned Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Adorned Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Adorned Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Adorned Silver Idol",
+          "c": "Any",
+          "u": [
+            {
+              "i": 211,
+              "d": "Throne of Ambition",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 6,
+          "d": "Adorned Volcano Idol",
+          "c": "Any",
+          "u": [
+            {
+              "i": 219,
+              "d": "Trinity of Flames",
+              "s": null
+            }
+          ]
+        },
+        {
+          "i": 7,
+          "d": "Heretical Adorned Heorot Idol",
+          "c": "Primalist",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Heretical Adorned Arcane Idol",
+          "c": "Mage",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Heretical Adorned Rahyeh Idol",
+          "c": "Sentinel",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Heretical Adorned Immortal Idol",
+          "c": "Acolyte",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Heretical Adorned Majasan Idol",
+          "c": "Rogue",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 34,
+      "t": "Blessing",
+      "d": "Blessing",
+      "g": [
+        1,
+        1
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Pride of Rebellion",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Grand Pride of Rebellion",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Sight of the Outcasts",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Grand Sight of the Outcasts",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Curse of Flesh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Grand Curse of Flesh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Favor of Souls",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Grand Favor of Souls",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Mark of Agony",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Grand Mark of Agony",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Memory of the Living",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Grand Memory of the Living",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Sign of Torment",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Grand Sign of Torment",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Cruelty of Formosus",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 15,
+          "d": "Savior of the North",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 16,
+          "d": "Chill of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 17,
+          "d": "Enmity of the Clans",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 18,
+          "d": "Ambition of the Empire",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 19,
+          "d": "Scars of Blood",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 20,
+          "d": "Favor of the Wengari",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 21,
+          "d": "Resolve of Frost",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 22,
+          "d": "Shards of Unity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 23,
+          "d": "Remorse of Heorot",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 24,
+          "d": "Memory of Light",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 25,
+          "d": "Grand Memory of Light",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 26,
+          "d": "Echo of Solarum",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 27,
+          "d": "Grand Echo of Solarum",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 28,
+          "d": "Shadow of the Eclipse",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 29,
+          "d": "Grand Shadow of the Eclipse",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 30,
+          "d": "Wrath of Rahyeh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 31,
+          "d": "Grand Wrath of Rahyeh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 32,
+          "d": "Whisper of Orobyss",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 33,
+          "d": "Grand Whisper of Orobyss",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 34,
+          "d": "Flames of the Black Sun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 35,
+          "d": "Grand Flames of the Black Sun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 36,
+          "d": "Hunger of the Void",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 37,
+          "d": "Grand Hunger of the Void",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 38,
+          "d": "Strength of the Mountain",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 39,
+          "d": "Grand Strength of the Mountain",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 40,
+          "d": "Winds of Oblivion",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 41,
+          "d": "Grand Winds of Oblivion",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 42,
+          "d": "Depths of Infinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 43,
+          "d": "Grand Depths of Infinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 44,
+          "d": "Greed of Darkness",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 45,
+          "d": "Grand Greed of Darkness",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 46,
+          "d": "Emptiness of Ash",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 47,
+          "d": "Grand Emptiness of Ash",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 48,
+          "d": "Thirst of the Sun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 49,
+          "d": "Grand Thirst of the Sun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 50,
+          "d": "Hope of the Beginning",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 51,
+          "d": "Safety of the Labyrinth",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 52,
+          "d": "Remnants of the Living",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 53,
+          "d": "Visions of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 54,
+          "d": "Inevitability of the Void",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 55,
+          "d": "Rot of the World",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 56,
+          "d": "Boon of the Scarab",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 57,
+          "d": "Shadows of Infinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 58,
+          "d": "Despair of the Empire",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 59,
+          "d": "Vigilance of the Damned",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 60,
+          "d": "Subtlety of Slaughter",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 61,
+          "d": "Apex of Fortune",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 62,
+          "d": "Arrogance of Argentus",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 63,
+          "d": "Embrace of Ice",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 64,
+          "d": "Grip of the Lance",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 65,
+          "d": "Right of Conquest",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 66,
+          "d": "Reach of Flame",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 67,
+          "d": "Binds of Sanctuary",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 68,
+          "d": "Slumber of Morditas",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 69,
+          "d": "Talon of Grandeur",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 70,
+          "d": "Vision of the Aurora",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 71,
+          "d": "Might of the Siege",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 72,
+          "d": "Bastion of Divinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 73,
+          "d": "Grand Bastion of Divinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 74,
+          "d": "Light of the Moon",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 75,
+          "d": "Grand Light of the Moon",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 76,
+          "d": "Rhythm of the Tide",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 77,
+          "d": "Grand Rhythm of the Tide",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 78,
+          "d": "Chaos of Lagon",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 79,
+          "d": "Grand Chaos of Lagon",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 80,
+          "d": "Might of the Sea Titan",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 81,
+          "d": "Grand Might of the Sea Titan",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 82,
+          "d": "Resonance of the Sea",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 83,
+          "d": "Grand Resonance of the Sea",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 84,
+          "d": "Mysteries of the Deep",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 85,
+          "d": "Grand Mysteries of the Deep",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 86,
+          "d": "Cruelty of the Meruna",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 87,
+          "d": "Grand Cruelty of the Meruna",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 88,
+          "d": "Weight of the Abyss",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 89,
+          "d": "Grand Weight of the Abyss",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 90,
+          "d": "Crash of the Waves",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 91,
+          "d": "Grand Crash of the Waves",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 92,
+          "d": "Trance of the Sirens",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 93,
+          "d": "Grand Trance of the Sirens",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 94,
+          "d": "Intellect of Liath",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 95,
+          "d": "Grand Intellect of Liath",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 96,
+          "d": "Grace of Water",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 97,
+          "d": "Grand Grace of Water",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 98,
+          "d": "Resolve of Humanity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 99,
+          "d": "Survival of Might",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 100,
+          "d": "Dream of Eterra",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 101,
+          "d": "Binds of Nature",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 102,
+          "d": "Despair of Flesh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 103,
+          "d": "Cruelty of Strength",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 104,
+          "d": "Hemmorage of Marrow",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 105,
+          "d": "Taste of Venom",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 106,
+          "d": "Hunger of Dragons",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 107,
+          "d": "Virtue of Command",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 108,
+          "d": "Persistance of Will",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 109,
+          "d": "Guile of Wyrms",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 110,
+          "d": "Allure of Apathy",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 111,
+          "d": "Winds of Fortune",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 112,
+          "d": "Grand Winds of Fortune",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 113,
+          "d": "Strength of Mind",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 114,
+          "d": "Grand Strength of Mind",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 115,
+          "d": "Scales of Greed",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 116,
+          "d": "Grand Scales of Greed",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 117,
+          "d": "Grand Arrogance of Argentus",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 118,
+          "d": "Grand Embrace of Ice",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 119,
+          "d": "Grand Grip of the Lance",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 120,
+          "d": "Grand Right of Conquest",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 121,
+          "d": "Grand Reach of Flame",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 122,
+          "d": "Grand Binds of Sanctuary",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 123,
+          "d": "Grand Slumber of Morditas",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 124,
+          "d": "Grand Talon of Grandeur",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 125,
+          "d": "Grand Vision of the Aurora",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 126,
+          "d": "Grand Might of the Siege",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 127,
+          "d": "Grand Cruelty of Formosus",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 128,
+          "d": "Grand Savior of the North",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 129,
+          "d": "Grand Chill of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 130,
+          "d": "Grand Enmity of the Clans",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 131,
+          "d": "Grand Ambition of the Empire",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 132,
+          "d": "Grand Scars of Blood",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 133,
+          "d": "Grand Favor of the Wengari",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 134,
+          "d": "Grand Resolve of Frost",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 135,
+          "d": "Grand Shards of Unity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 136,
+          "d": "Grand Remorse of Heorot",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 137,
+          "d": "Grand Hope of the Beginning",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 138,
+          "d": "Grand Safety of the Labyrinth",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 139,
+          "d": "Grand Remnants of the Living",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 140,
+          "d": "Grand Visions of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 141,
+          "d": "Grand Inevitability of the Void",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 142,
+          "d": "Grand Rot of the World",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 143,
+          "d": "Grand Boon of the Scarab",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 144,
+          "d": "Grand Shadows of Infinity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 145,
+          "d": "Grand Despair of the Empire",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 146,
+          "d": "Grand Vigilance of the Damned",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 147,
+          "d": "Grand Subtlety of Slaughter",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 148,
+          "d": "Grand Apex of Fortune",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 149,
+          "d": "Grand Resolve of Humanity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 150,
+          "d": "Grand Survival of Might",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 151,
+          "d": "Grand Dream of Eterra",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 152,
+          "d": "Grand Binds of Nature",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 153,
+          "d": "Grand Despair of Flesh",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 154,
+          "d": "Grand Cruelty of Strength",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 155,
+          "d": "Grand Hemmorage of Marrow",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 156,
+          "d": "Grand Taste of Venom",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 157,
+          "d": "Grand Hunger of Dragons",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 158,
+          "d": "Grand Virtue of Command",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 159,
+          "d": "Grand Persistance of Will",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 160,
+          "d": "Grand Guile of Wyrms",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 161,
+          "d": "Grand Allure of Apathy",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 162,
+          "d": "Temple of the Mind",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 163,
+          "d": "Grand Temple of the Mind",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 164,
+          "d": "Bastion of the Heart",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 165,
+          "d": "Grand Bastion of the Heart",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 166,
+          "d": "Binding of Ruin",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 167,
+          "d": "Grand Binding of Ruin",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 168,
+          "d": "Refuge of Despair",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 169,
+          "d": "Grand Refuge of Despair",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 170,
+          "d": "Comfort of the End",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 171,
+          "d": "Grand Comfort of the End",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 172,
+          "d": "Memory of Masters",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 173,
+          "d": "Grand Memory of Masters",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 174,
+          "d": "Grasp of Hope",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 175,
+          "d": "Grand Grasp of Hope",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 176,
+          "d": "Remnants of the Elders",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 177,
+          "d": "Grand Remnants of the Elders",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 178,
+          "d": "Knowledge of Skill",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 179,
+          "d": "Grand Knowledge of Skill",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 180,
+          "d": "Resolve of Grael",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 181,
+          "d": "Grand Resolve of Grael",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 182,
+          "d": "Protection of Heorot",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 183,
+          "d": "Grand Protection of Heorot",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 184,
+          "d": "Vigor of Jormun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 185,
+          "d": "Grand Vigor of Jormun",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 186,
+          "d": "Maw of Artor",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 187,
+          "d": "Grand Maw of Artor",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 188,
+          "d": "Winds of Frost",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 189,
+          "d": "Grand Winds of Frost",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 190,
+          "d": "Rage of Winter",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 191,
+          "d": "Grand Rage of Winter",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 192,
+          "d": "Fury of the North",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 193,
+          "d": "Grand Fury of the North",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 194,
+          "d": "Heart of Ice",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 195,
+          "d": "Grand Heart of Ice",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 196,
+          "d": "Bones of Eternity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 197,
+          "d": "Grand Bones of Eternity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 198,
+          "d": "Bulwark of the Tundra",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 199,
+          "d": "Grand Bulwark of the Tundra",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 200,
+          "d": "Defiance of Yulia",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 201,
+          "d": "Grand Defiance of Yulia",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 202,
+          "d": "Heart of the Caldera",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 203,
+          "d": "Grand Heart of the Caldera",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 204,
+          "d": "Body of Obsidian",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 205,
+          "d": "Grand Body of Obsidian",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 206,
+          "d": "Curse of Sulphur",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 207,
+          "d": "Grand Curse of Sulphur",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 208,
+          "d": "Embers of Immortality",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 209,
+          "d": "Grand Embers of Immortality",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 210,
+          "d": "Swiftness of Logi",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 211,
+          "d": "Grand Swiftness of Logi",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 212,
+          "d": "Breath of Cinders",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 213,
+          "d": "Grand Breath of Cinders",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 214,
+          "d": "Promise of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 215,
+          "d": "Grand Promise of Death",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 216,
+          "d": "Spirit of Command",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 217,
+          "d": "Grand Spirit of Command",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 218,
+          "d": "Might of Bhuldar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 219,
+          "d": "Grand Might of Bhuldar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 220,
+          "d": "Flames of Calamity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 221,
+          "d": "Grand Flames of Calamity",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 222,
+          "d": "Patience of Herkir",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 223,
+          "d": "Grand Patience of Herkir",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 35,
+      "t": "Greater Lens",
+      "d": "Greater Lens",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Obscuring Lens of Battle",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Obscuring Lens of Time",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Obscuring Lens of Depths",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Obscuring Lens of Storytelling",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Obscuring Lens of Corruption ",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Refracting Lens of Rhyme",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Refracting Lens of Wealth",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Enhancing Lens of the Unmatched",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Enhancing Lens of the Exalted",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Enhancing Lens of the Collector",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Focusing Lens of Time",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 36,
+      "t": "Arctus Lens",
+      "d": "Arctus Lens",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Focusing Lens of the Path",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Focusing Lens of the Alchemy",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Focusing Lens of the Crown",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Focusing Lens of the Body",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Focusing Lens of the Hand",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 37,
+      "t": "Mesembria Lens",
+      "d": "Mesembria Lens",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Focusing Lens of Relics",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Focusing Lens of Rings",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Focusing Lens of Pentacles",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 38,
+      "t": "Eos Lens",
+      "d": "Eos Lens",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Focusing Lens of Blades",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Focusing Lens of Axes",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Focusing Lens of Clubs",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Focusing Lens of Knives",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Focusing Lens of Wands",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Focusing Lens of Authority",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Focusing Lens of Champions",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Focusing Lens of Cleavers",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Focusing Lens of Hammers",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Focusing Lens of Staves",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Focusing Lens of Spears",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Focusing Lens of Bows",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Focusing Lens of Arrows",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 13,
+          "d": "Focusing Lens of Shields",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 14,
+          "d": "Focusing Lens of Orbs",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 39,
+      "t": "Dysis Lens",
+      "d": "Dysis Lens",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Focusing Lens of Shards",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Focusing Lens of Runes",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Focusing Lens of Glyphs",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Focusing Lens of Keys",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Focusing Lens of the Soil",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Focusing Lens of Humility",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Focusing Lens of Chaos",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Focusing Lens of Grandeur",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Focusing Lens of Sprires",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Focusing Lens of Worship",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Focusing Lens of Mountains",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Focusing Lens of Faith",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Focusing Lens of the Sea",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    },
+    {
+      "b": 41,
+      "t": "Idol Altar",
+      "d": "Idol Altar",
+      "g": [
+        2,
+        2
+      ],
+      "s": [
+        {
+          "i": 0,
+          "d": "Twisted Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 1,
+          "d": "Jagged Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 2,
+          "d": "Skyward Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 3,
+          "d": "Spire Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 4,
+          "d": "Carcinised Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 5,
+          "d": "Visage Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 6,
+          "d": "Lunar Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 7,
+          "d": "Ocular Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 8,
+          "d": "Archaic Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 9,
+          "d": "Impervious Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 10,
+          "d": "Prophesied Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 11,
+          "d": "Pyramidal Altar",
+          "c": "Any",
+          "u": []
+        },
+        {
+          "i": 12,
+          "d": "Auric Altar",
+          "c": "Any",
+          "u": []
+        }
+      ]
+    }
+  ],
+  "non_equippable": [
+    {
+      "b": 101,
+      "t": "Affix Shard",
+      "d": "Affix Shard",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 102,
+      "t": "Crafting Modifier Item",
+      "d": "Rune",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 103,
+      "t": "Crafting Support Item",
+      "d": "Glyph",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 104,
+      "t": "Key Items",
+      "d": "Key",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 106,
+      "t": "Resonance",
+      "d": "Resonance",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 107,
+      "t": "Woven Echo",
+      "d": "Woven Echo",
+      "g": [
+        1,
+        1
+      ]
+    },
+    {
+      "b": 108,
+      "t": "Bags",
+      "d": "Bag",
+      "g": [
+        2,
+        2
+      ]
+    }
+  ]
+}
